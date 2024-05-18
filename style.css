@@ -1,0 +1,24 @@
+
+h1{
+    color:red;
+}
+p{
+    color:aqua;
+}
+button{
+color:blue;
+background-color: aquamarine;
+}
+body{
+ background-color: rgb(58, 16, 109);
+ /* background-color: rgb(red, green, blue); */
+}
+/* *{
+    color:aqua;
+} */
+.myclass{
+    color:blanchedalmond;
+}
+ #headingOne {
+    color:rgb(155, 190, 26);
+ }
